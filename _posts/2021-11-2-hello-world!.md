@@ -9,6 +9,8 @@ Welcome to my website/blog. I wanted to set it up for a long time but wasnt able
 - Portfolio
 
 * * *
+Test
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 $$
@@ -33,7 +35,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
+```bash
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
