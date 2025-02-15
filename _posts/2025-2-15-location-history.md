@@ -43,6 +43,8 @@ map_1.add_data(data=location_data, name="location_data")
 map_1
 ``` 
 Here is the nice map :D
-<iframe src="{{ '/assets/location_data.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+<div style="display: flex; justify-content: center;">
+    <iframe src="{{ '/assets/location_data.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+</div>
 
 Enjoy ;)
