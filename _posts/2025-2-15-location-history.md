@@ -4,7 +4,7 @@ author: Shabbir Marzban
 
 ---
 Recently I pulled all the location history Google has collected over the years
-on me and I was amazed at the scale of it, there are more than ~2M data points!. I queried on it using [DuckDB](https://duckdb.org/) and visualized it using [KeplerGL](https://kepler.gl/)
+on me and I was amazed at the scale of it, there are more than ~2M data points! I queried on it using [DuckDB](https://duckdb.org/) and visualized it using [KeplerGL](https://kepler.gl/)
 
 ```python
 !wc -l data.csv 
@@ -35,7 +35,7 @@ location_data = con.sql(
     """
 ).df()
 ``` 
-DuckDB being superfast, it execeuted above aggrgation in just 0.5s on 15 year old desktop machine.
+DuckDB being superfast, it executed above aggrgation in just 0.5s on 15 year old desktop machine.
 
 ``` 
 map_1 = KeplerGl(height=800)
