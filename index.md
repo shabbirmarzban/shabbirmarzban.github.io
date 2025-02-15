@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-# Social links
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smarzban/)
 # Blog posts
 
 <ul>
@@ -14,3 +12,7 @@ layout: default
     </li>
     {% endfor %}
 </ul>
+
+# Social links
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smarzban/)
