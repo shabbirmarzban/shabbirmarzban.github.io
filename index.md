@@ -26,7 +26,7 @@ Hello, My name is Shabbir Marzban. I'm a seasoned Applied Scientist with a passi
 - Developed methods to detect wear on road markings using dashcam video data.  
   - [Research Paper](https://arxiv.org/abs/2106.02567)  
 
-### **Computer Vision Engineer**, **[Uru (acquired by Adobe)](https://www.crunchbase.com/organization/uru)**  
+### **Computer Vision Engineer**, **[Uru (acquired by Adobe)](https://tech.cornell.edu/news/uru-video-acquired-by-adobe/#:~:text=Cornell%20Tech%20alumni%20startup%20Uru,seamlessly%20place%20advertisements%20into%20video.)**  
 *Jan 2017 – May 2018*  
 - Developed deep learning models for **brand analytics** and **brand safeness scoring** in videos.  
 - Built a detector for **800+ unique brands** (e.g., Coca-Cola, Nike) to analyze video content.  
